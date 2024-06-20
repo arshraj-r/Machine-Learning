@@ -38,8 +38,8 @@ This repository is licensed under the MIT License. See the `LICENSE` file for mo
 
 ## Getting Started
 To get started with the repository:
-1. **Clone the repository**: `git clone https://github.com/yourusername/machine-learning-repo.git`
-2. **Navigate to the project directory**: `cd machine-learning-repo`
+1. **Clone the repository**: `git clone https://github.com/arshraj-r/Scikit-Learn-Collection.git`
+2. **Navigate to the project directory**: `cd Scikit-Learn-Collection`
 3. **Install the necessary dependencies**: `pip install -r requirements.txt`
 4. **Explore the contents**: Browse through the directories to find projects, tutorials, and datasets of interest.
 
