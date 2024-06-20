@@ -40,7 +40,7 @@ This repository is licensed under the MIT License. See the `LICENSE` file for mo
 To get started with the repository:
 1. **Clone the repository**: `git clone https://github.com/arshraj-r/Scikit-Learn-Collection.git`
 2. **Navigate to the project directory**: `cd Scikit-Learn-Collection`
-3. **Install the necessary dependencies**: `pip install -r requirements.txt`
+3. **Install the necessary dependencies**: `pip install -r requirements.txt` or you can install the latest version of scikit-learn `pip install -U scikit-learn`
 4. **Explore the contents**: Browse through the directories to find projects, tutorials, and datasets of interest.
 
 For any questions or suggestions, feel free to open an issue or contact me directly.
