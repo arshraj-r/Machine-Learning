@@ -41,6 +41,7 @@ To get started with the repository:
 1. **Clone the repository**: `git clone https://github.com/arshraj-r/Scikit-Learn-Collection.git`
 2. **Navigate to the project directory**: `cd Scikit-Learn-Collection`
 3. **Install the necessary dependencies**: `pip install -r requirements.txt` or you can install the latest version of the following packages.
+
 a. pandas - `pip install -U pandas`
 b. matplotlib - `pip install -U matplotlib`
 c. scikit-learn - `pip install -U scikit-learn`
