@@ -43,6 +43,6 @@ To get started with the repository:
 3. **Install the necessary dependencies**: `pip install -r requirements.txt`
 4. **Explore the contents**: Browse through the directories to find projects, tutorials, and datasets of interest.
 
-For any questions or suggestions, feel free to open an issue or contact us directly.
+For any questions or suggestions, feel free to open an issue or contact me directly.
 
 Happy Learning!
